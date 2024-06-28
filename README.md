@@ -39,6 +39,14 @@
 
 ---
 
-### Results/Findings
+### Data Analysis
 * The analysis results can be viewed [here](Results.md)
+
+---
+
+### Results/Findings
+
+---
+
+### Recommendations
  
