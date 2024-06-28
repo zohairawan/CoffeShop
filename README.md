@@ -6,7 +6,7 @@
 ---
 
 ### Dataset Used:
-
+[Coffee-Shop-Sales](Data-Source/Coffee-Shop-Sales.xlsx) - Original dataset in XLSX format
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ### Business Task
-
+* Transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends, and opportunities for the business
 
 ---
 
