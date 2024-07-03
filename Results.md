@@ -88,3 +88,12 @@
 </td></tr></table>
 
 ---
+
+|Astoria|
+|---|
+|Sales|Product|Product|Revenue|
+|---|---|---|---|
+995|Peppermint Lg|Latte Rg|$6,387.75
+965|Jamaican Coffee River Lg|Sustainably Grown Organic Lg|$6,312.75
+955|Latte|Cappuccino Lg|$6,001.00
+950|Columbian Medium Roast Rg|Latte|$5,778.75
