@@ -92,6 +92,8 @@
 <table>
 <tr><th>Astdgdforia</th></tr>
 <!-- <tr><th>Sales</th><th>Product</th><th>Product</th><th>Revenue</th></tr> -->
+<tr><td>
+
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
 1,031|Chocolate Croissant|Dark chocolate Lg|$6,574.50
@@ -99,4 +101,5 @@
 965|Jamaican Coffee River Lg|Sustainably Grown Organic Lg|$6,312.75
 955|Latte|Cappuccino Lg|$6,001.00
 950|Columbian Medium Roast Rg|Latte|$5,778.75
-</table>
+
+</tr></td></table>
