@@ -29,7 +29,7 @@
 
 ### Business Task
 * Profile and prepare the raw data for analysis
-* EDA (Exploratory Data Analysis)
+* EDA (Exploratory Data Analysis) with Pivot Tables
 * Build an interactive and dynamic dashboard to visualize patterns and trends
 
 ---
