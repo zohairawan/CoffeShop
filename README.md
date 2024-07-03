@@ -11,22 +11,6 @@
 
 ---
 
-### Tools
-* Excel
-
----
-
-### Skills Demonstrated
-* Data Analysis Process
-    * Prepare
-    * Process
-    * Analyze
-    * Share
-* Pivot Tables / Slicers / Timelines
-* Interactive and dynamic Dashboard
-
----
-
 ### Business Task
 * Profile and prepare the raw data for analysis
 * EDA (Exploratory Data Analysis) with Pivot Tables
@@ -45,6 +29,7 @@
 ---
 
 ### Results/Findings
+
 
 ---
 
