@@ -49,7 +49,7 @@
 * Coffee - 39.17% of total sales
 * Tea - 30.48% of total sales
 
-#### Best product by sales:
+#### Top 5 Best product by sales and revenue:
 <table>
 <tr><th>Astoria</th><th>Hell's Kitchen</th><th>Lower Manhatten</th></tr>
 <tr><td>
@@ -57,55 +57,32 @@
 <!-- Astoria -->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
-1166|Dark chocolate Lg|Dark chocolate Lg|$7,897.50
-1137|Earl Grey Rg|Sustainably Grown Organic Lg|$7,509.75
-1126|Spicy Eye Opener Chai Lg|Latte Rg|$6,358.00
-1113|Peppermint Rg|Morning Sunrise Chai Lg|$6,308.00
-1108|Columbian Medium Roast Rg|Cappuccino Lg|$6,128.50
+1,166|Dark chocolate Lg|Dark chocolate Lg|$7,897.50
+1,137|Earl Grey Rg|Sustainably Grown Organic Lg|$7,509.75
+1,126|Spicy Eye Opener Chai Lg|Latte Rg|$6,358.00
+1,113|Peppermint Rg|Morning Sunrise Chai Lg|$6,308.00
+1,108|Columbian Medium Roast Rg|Cappuccino Lg|$6,128.50
 
 </td><td>
 
 <!-- Hell's Kitchen -->
-
+Ouro Brasileiro shot|1,363|Civet Cat|$7,380.00
+Morning Sunrise Chai Rg|1,058|Sustainably Grown Organic Lg|$7,329.25
+Serenity Green Tea Rg|1,054|Dark chocolate Lg|$6,534.00
+Chocolate Croissant|1,042|Latte Rg|$6,366.50
+Sustainably Grown Organic|1,039|Morning Sunrise Chai Lg|$5,652.00
 
 </td><td>
 
 <!-- Lower Manhatten-->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
+Chocolate Croissant|1,031|Dark chocolate Lg|$6,574.50
+Peppermint Lg|995|Latte Rg|$6,387.75
+Jamaican Coffee River Lg|965|Sustainably Grown Organic Lg|$6,312.75
+Latte|955|Cappuccino Lg|$6,001.00
+Columbian Medium Roast Rg|950|Latte|$5,778.75
 
 </td></tr></table>
 
-* Astoria
-    
-* Hell's Kitchen
-    Ouro Brasileiro shot	        1363
-    Morning Sunrise Chai Rg	        1058
-    Serenity Green Tea Rg	        1054
-    Chocolate Croissant	            1042
-    Sustainably Grown Organic Lg	1039
-* Lower Manhatten
-    Chocolate Croissant	            1031
-    Peppermint Lg	                995
-    Jamaican Coffee River Lg	    965
-    Latte	                        955
-    Columbian Medium Roast Rg	    950
-        
-
-#### Best product by revenue:
-* Astoria
-    
-* Hell's Kitchen
-    Civet Cat		                    $7,380.00
-    Sustainably Grown Organic Lg		$7,329.25
-    Dark chocolate Lg		            $6,534.00
-    Latte Rg		                    $6,366.50
-    Morning Sunrise Chai Lg	            $5,652.00
-* Lower Manhatten
-    Dark chocolate Lg		            $6,574.50
-    Latte Rg		                    $6,387.75
-    Sustainably Grown Organic Lg		$6,312.75
-    Cappuccino Lg		                $6,001.00
-    Latte		                        $5,778.75
-        
 ---
