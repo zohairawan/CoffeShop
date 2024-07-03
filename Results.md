@@ -28,7 +28,10 @@
 
 ### KPI's
 #### Store Location with the most revenue:
-    * Hell's Kitchen
+* Hell's Kitchen
+
+##### Store Location with the most revenue:
+* Hell's Kitchen
 
 * Best performing month by revenue
     * Astoria: June
