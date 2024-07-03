@@ -66,22 +66,24 @@
 </td><td>
 
 <!-- Hell's Kitchen -->
-Ouro Brasileiro shot|1,363|Civet Cat|$7,380.00
-Morning Sunrise Chai Rg|1,058|Sustainably Grown Organic Lg|$7,329.25
-Serenity Green Tea Rg|1,054|Dark chocolate Lg|$6,534.00
-Chocolate Croissant|1,042|Latte Rg|$6,366.50
-Sustainably Grown Organic|1,039|Morning Sunrise Chai Lg|$5,652.00
+|Sales|Product|Product|Revenue|
+|---|---|---|---|
+1,363|Ouro Brasileiro shot|Civet Cat|$7,380.00
+1,058|Morning Sunrise Chai Rg|Sustainably Grown Organic Lg|$7,329.25
+1,054|Serenity Green Tea Rg|Dark chocolate Lg|$6,534.00
+1,042|Chocolate Croissant|Latte Rg|$6,366.50
+1,039|Sustainably Grown Organic|Morning Sunrise Chai Lg|$5,652.00
 
 </td><td>
 
 <!-- Lower Manhatten-->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
-Chocolate Croissant|1,031|Dark chocolate Lg|$6,574.50
-Peppermint Lg|995|Latte Rg|$6,387.75
-Jamaican Coffee River Lg|965|Sustainably Grown Organic Lg|$6,312.75
-Latte|955|Cappuccino Lg|$6,001.00
-Columbian Medium Roast Rg|950|Latte|$5,778.75
+1,031|Chocolate Croissant|Dark chocolate Lg|$6,574.50
+995|Peppermint Lg|Latte Rg|$6,387.75
+965|Jamaican Coffee River Lg|Sustainably Grown Organic Lg|$6,312.75
+955|Latte|Cappuccino Lg|$6,001.00
+950|Columbian Medium Roast Rg|Latte|$5,778.75
 
 </td></tr></table>
 
