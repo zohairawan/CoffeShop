@@ -89,11 +89,14 @@
 
 ---
 
-|Astoria|
-|---|
+<table>
+<tr><th>Astoria</th></tr>
+<!-- <tr><th>Sales</th><th>Product</th><th>Product</th><th>Revenue</th></tr> -->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
+1,031|Chocolate Croissant|Dark chocolate Lg|$6,574.50
 995|Peppermint Lg|Latte Rg|$6,387.75
 965|Jamaican Coffee River Lg|Sustainably Grown Organic Lg|$6,312.75
 955|Latte|Cappuccino Lg|$6,001.00
 950|Columbian Medium Roast Rg|Latte|$5,778.75
+</table>
