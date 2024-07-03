@@ -35,7 +35,7 @@
 * Hell's Kitchen: June
 * Lower Manhatten: June
 
-#### Busiest days by number of sales:
+#### Busiest days by sales:
 * Astoria: Thu, Mon, Wed
 * Hell's Kitchen: Fri, Tue, Sun
 * Lower Manhatten: Mon, Thu, Fri
@@ -45,11 +45,15 @@
 * Hell's Kitchen: 8 - 10 am
 * Lower Manhatten: 7 - 10 am
 
-#### Best product category by number of sales:
+#### Best product category by sales:
 * Coffee - 39.17% of total sales
 * Tea - 30.48% of total sales
 
 #### Best product by sales:
+<table>
+<tr><th>Astoria</th><th>Hell's Kitchen</th><th>Lower Manhatten</th></tr>
+</table>
+
 * Astoria
     Dark chocolate Lg	            1166
     Earl Grey Rg	                1137
