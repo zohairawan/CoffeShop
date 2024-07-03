@@ -1,2 +1,5 @@
 # Ignores the Data Source Copy folder
 Data-Source-Copy/*
+
+# Ignores source video for this project
+Source.txt
