@@ -53,16 +53,19 @@
 <table>
 <tr><th>Astoria</th><th>Hell's Kitchen</th><th>Lower Manhatten</th></tr>
 <tr><td>
+
 <!-- Astoria -->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
 
 </td><td>
+
 <!-- Hell's Kitchen -->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
 
 </td><td>
+
 <!-- Lower Manhatten-->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
