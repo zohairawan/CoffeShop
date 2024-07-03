@@ -63,6 +63,11 @@
 <!-- Hell's Kitchen -->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
+|Dark chocolate Lg|1166
+|Earl Grey Rg|1137
+|Spicy Eye Opener Chai Lg|1126
+|Peppermint Rg|1113
+|Columbian Medium Roast Rg|1108
 
 </td><td>
 
@@ -73,11 +78,7 @@
 </td></tr></table>
 
 * Astoria
-    Dark chocolate Lg	            1166
-    Earl Grey Rg	                1137
-    Spicy Eye Opener Chai Lg	    1126
-    Peppermint Rg	                1113
-    Columbian Medium Roast Rg	    1108
+    
 * Hell's Kitchen
     Ouro Brasileiro shot	        1363
     Morning Sunrise Chai Rg	        1058
