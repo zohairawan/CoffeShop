@@ -3,3 +3,6 @@ Data-Source-Copy/*
 
 # Ignores source video for this project
 Source.txt
+
+# Ignores the SQL Script
+SQLScript.sql
