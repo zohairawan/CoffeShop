@@ -57,11 +57,11 @@
 <!-- Astoria -->
 |Sales|Product|Product|Revenue|
 |---|---|---|---|
-|Dark chocolate Lg|1166
-|Earl Grey Rg|1137
-|Spicy Eye Opener Chai Lg|1126
-|Peppermint Rg|1113
-|Columbian Medium Roast Rg|1108
+1166|Dark chocolate Lg|Dark chocolate Lg|$7,897.50
+1137|Earl Grey Rg|Sustainably Grown Organic Lg|$7,509.75
+1126|Spicy Eye Opener Chai Lg|Latte Rg|$6,358.00
+1113|Peppermint Rg|Morning Sunrise Chai Lg|$6,308.00
+1108|Columbian Medium Roast Rg|Cappuccino Lg|$6,128.50
 
 </td><td>
 
@@ -94,11 +94,7 @@
 
 #### Best product by revenue:
 * Astoria
-    Dark chocolate Lg	        	    $7,897.50
-    Sustainably Grown Organic Lg	    $7,509.75
-    Latte Rg	                        $6,358.00
-    Morning Sunrise Chai Lg	            $6,308.00
-    Cappuccino Lg	                    $6,128.50
+    
 * Hell's Kitchen
     Civet Cat		                    $7,380.00
     Sustainably Grown Organic Lg		$7,329.25
