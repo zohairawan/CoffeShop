@@ -3,7 +3,7 @@
 ![Coffee-Shop-Dashboard](img/Coffee-Shop-Dashboard.png)
 
 ### Project Overview
-* Analyze the coffee shop transactional sales data from Jan-June 2023 in order to better understand purchase behavior and streamline operations
+* Analyze the coffee shop transactional sales data from Jan-June 2023 to better understand purchase behavior and streamline operations
 * Transform the data into an interactive and dynamic dashboard that franchise owners can use to identify patterns, trends, and opportunities for the business
 
 ---
