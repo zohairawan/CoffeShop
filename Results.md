@@ -40,12 +40,22 @@
 * Hell's Kitchen: Fri, Tue, Sun
 * Lower Manhatten: Mon, Thu, Fri
 
+#### Slowest Days:
+* Astoria: Sat and Tue
+* Hell's Kitchen: Sat
+* Lower Manahatten: Relatively stable throughout
+
 #### Peak hours:
 * Astoria: 8 - 10 am
 * Hell's Kitchen: 8 - 10 am
 * Lower Manhatten: 7 - 10 am
 
-#### Best product category by sales:
+#### Slow hours:
+* Astoria: Stable throughout
+* Hell's Kitchen: 8 pm
+* Lower Manhatten: 7 - 8 pm
+
+#### Best product categories by sales:
 * Coffee - 39.17% of total sales
 * Tea - 30.48% of total sales
 
