@@ -26,7 +26,7 @@
 
 ---
 
-## KPI's
+## Exploratory Data Analysis Results
 #### Store Location with the most revenue:
 * Hell's Kitchen
 
